@@ -61,4 +61,6 @@ function draw(){
 
     bird.display();
     platform.display();
+
+    //platform.display();
 }
